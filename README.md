@@ -58,6 +58,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Shahid10&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
+<p align="center">
+  <!-- GitHub Profile Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid10&show_icons=true&theme=tokyonight&count_private=true" alt="Hamza's GitHub Stats" width="48%" />
+
+  <!-- GitHub Repos & Commits Badges (always works) -->
+  <img src="https://img.shields.io/github/commit-activity/m/Hamza-Shahid10?style=for-the-badge&logo=github" alt="Commit Activity" width="48%" />
+</p>
+
+<p align="center">
+  <!-- GitHub Repositories Count -->
+  <img src="https://img.shields.io/github/repos/Hamza-Shahid10?style=for-the-badge&logo=github" alt="Total Repositories" />
+  
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/Hamza-Shahid10?style=for-the-badge&logo=github" alt="Followers" />
+</p>
+
 ---
 
 ### 🌐 Connect With Me
