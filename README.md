@@ -58,14 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Shahid10&theme=tokyonight" alt="GitHub Streak" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shahid10&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Shahid10&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
-
 ---
 
 ### 🌐 Connect With Me
