@@ -59,19 +59,11 @@
 </p>
 
 <p align="center">
-  <!-- GitHub Profile Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Shahid10&show_icons=true&theme=tokyonight&count_private=true" alt="Hamza's GitHub Stats" width="48%" />
-
-  <!-- GitHub Repos & Commits Badges (always works) -->
-  <img src="https://img.shields.io/github/commit-activity/m/Hamza-Shahid10?style=for-the-badge&logo=github" alt="Commit Activity" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Shahid10&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Repositories Count -->
-  <img src="https://img.shields.io/github/repos/Hamza-Shahid10?style=for-the-badge&logo=github" alt="Total Repositories" />
-  
-  <!-- GitHub Followers -->
-  <img src="https://img.shields.io/github/followers/Hamza-Shahid10?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza-Shahid10&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
